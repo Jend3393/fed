@@ -1,0 +1,5 @@
+rootProject.name = 'fed'
+
+include ':back'
+include ':front'
+
